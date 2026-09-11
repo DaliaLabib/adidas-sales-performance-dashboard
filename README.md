@@ -2,7 +2,8 @@
 # Adidas Sales Performance Dashboard (MENA Region)
 
 An interactive Excel sales analytics dashboard analyzing key revenue, profit, and volume metrics for Adidas across various Middle East & North Africa (MENA) markets.
-<img width="763" height="364" alt="image" src="https://github.com/user-attachments/assets/24a4a50f-60c0-447a-8ff3-04d8158682c8" />
+
+<img width="763" height="364" alt="image" src="https://github.com/user-attachments/assets/3aa04542-2161-469e-8bfd-b1deaefe87f1" />
 
 ---
 
